@@ -1,2 +1,2 @@
-print ("Hello Capstone Project Course!"
-:wq
+print ("Hello Capstone Project Course!")
+
